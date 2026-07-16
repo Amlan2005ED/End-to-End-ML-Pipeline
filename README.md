@@ -1,10 +1,10 @@
-# 🚀 AIML Capstone Project: End-to-End Machine Learning & Computer Vision
+# 🚀 End-to-End Machine Learning & Computer Vision
 
 **Student Name:** Amlan Pal  
 **College Roll Number:** 23BCE0562  
 **Student Signature:** 02ce8a497ee1  
 
-Welcome to my Capstone Project! This repository contains a complete, automated machine learning pipeline that transitions from basic tabular data analysis all the way to deploying a deep learning model for complex computer vision tasks. 
+Welcome to my End-to-End Machine Learning & Computer Vision Project!This repository contains a complete, automated machine learning pipeline that transitions from basic tabular data analysis all the way to deploying a deep learning model for complex computer vision tasks. 
 
 ---
 
