@@ -1,4 +1,4 @@
-# 🚀 End-to-End Machine Learning & Computer Vision
+# 🚀 End-to-End Machine Learning & Computer Vision Project
 
 **Student Name:** Amlan Pal  
 **College Roll Number:** 23BCE0562  
